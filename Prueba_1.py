@@ -22,6 +22,7 @@ print ("HOLA MUNDO")
 m = 2+3
 
 
+print ("status.mamado")
 
 
 # In[4]:
