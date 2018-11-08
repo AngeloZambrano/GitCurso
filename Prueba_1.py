@@ -10,7 +10,7 @@
 #  **ESTO ES NEGITA
 # 
 # **esto s negrota
-
+3 
 # In[1]:
 
 
@@ -25,8 +25,6 @@ m = 2+3
 print ("status.mamado")
 
 
-# In[4]:
-
-
+# In[4]:**esto no es facil pero lo voy a lograr
 print ("print es una instruccion que muestra texto en pantalla") 
 
